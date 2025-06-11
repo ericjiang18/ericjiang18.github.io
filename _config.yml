@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Eric Hanchen Jiang"
   avatar           : "images/1730453326541.jpg"
-  bio              : "Universtiy of California, Los Angeles"
-  location         : "Los Angeles, California, US"
+  bio              : 
+  location         : "Los Angeles, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=nAS1smkAAAAJ"
