@@ -25,9 +25,9 @@ I am open to any research collaboration and internship 🥳! Feel free to contac
 
 # 🔎 Current Research Topics
 
-◦ Reinforcement Learning: Robust RL, offline/online RL, Maximum Entropy, Policy Sampling, In-Context Learning 
-◦ Large Language Models: Reinforcement Learning with Human Feedback (RLHF), Trustworthy, Safety 
-◦ Diffusion Models: Text-to-Image Stable Diffusion, Large Vision Langugage Model, Diffusion Sampling
+- Reinforcement Learning: Robust RL, offline/online RL, Maximum Entropy, Policy Sampling, In-Context Learning 
+- Large Language Models: Reinforcement Learning with Human Feedback (RLHF), Trustworthy, Safety 
+- Diffusion Models: Text-to-Image Stable Diffusion, Large Vision Langugage Model, Diffusion Sampling
 
 # 🔥 News
 - *2025.01*: &nbsp;🎉🎉 I received the Graduate Dean's Scholar Award (GDSA), awarded to the top 2 UCLA Statistics and Data Science PhD applicants (Top 1%).
