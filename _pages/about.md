@@ -63,4 +63,6 @@ I am open to any research collaboration and internship 🥳! Feel free to contac
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=R6MW_DBY2fl2O795znHmDzOYi6qR9CXUKre5ggrWNYQ"></script>
+<div style="width: 200px; height: 200px; margin-top: 20px;">
+  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=R6MW_DBY2fl2O795znHmDzOYi6qR9CXUKre5ggrWNYQ"></script>
+</div>
