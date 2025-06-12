@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Eric Jiang (姜汉晨), and I am currently a senior undergraduate at University of California, Los Angeles, pursuing double degrees in Math of Computation and Statistics. I am an incoming Statistics PhD student (25 Fall) at UCLA, supervised by [Prof. Kai-Wei Chang](https://scholar.google.com/citations?user=fqDBtzYAAAAJ&hl=en) and  [Prof. Yingnian Wu](https://scholar.google.com/citations?user=7k_1QFIAAAAJ&hl=en). 
+My name is Eric Jiang (姜汉晨), and I am an incoming Statistics and Data Science PhD student (25 Fall) at UCLA, supervised by [Prof. Kai-Wei Chang](https://scholar.google.com/citations?user=fqDBtzYAAAAJ&hl=en) and  [Prof. Yingnian Wu](https://scholar.google.com/citations?user=7k_1QFIAAAAJ&hl=en). 
 
 My research develops a comprehensive framework that integrates theoretical foundations in machine learning with practical applications in complex systems. By bridging the gap between advanced algorithms and domain-specific knowledge, I aim to build robust models that efficiently learn from data and make accurate predictions. My work focuses on enhancing reinforcement learning algorithms, improving the scalability of large models, and integrating uncertainty quantification into machine learning processes. Additionally, my current research is motivated by interdisciplinary projects in astrophysics, finance, and healthcare.
 
@@ -30,6 +30,7 @@ I am open to any research collaboration and internship 🥳! Feel free to contac
 - Diffusion Models: Text-to-Image Stable Diffusion, Large Vision Langugage Model, Diffusion Sampling
 
 # 🔥 News
+- *2025.06*: &nbsp;🎉🎉 I graduated from University of California, Los Angeles with double degrees in Math of Computation and Statistics and Data Science
 - *2025.01*: &nbsp;🎉🎉 I received the Graduate Dean's Scholar Award (GDSA), awarded to the top 2 UCLA Statistics and Data Science PhD applicants (Top 1%).
 
 # 📝 Publications 
