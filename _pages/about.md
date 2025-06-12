@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Eric Jiang (姜汉晨), and I am currently a senior undergraduate at University of California, Los Angeles, pursuing double degrees in Math of Computation and Statistics. I am an incoming Statistics PhD student (25 Fall) at UCLA, supervised by [Prof. Kai-Wei Chang](https://scholar.google.com/citations?user=fqDBtzYAAAAJ&hl=en) and  [Prof. Yingnian Wu](https://scholar.google.com/citations?user=7k_1QFIAAAAJ&hl=en) . My research develops a comprehensive framework that integrates theoretical foundations in machine learning with practical applications in complex systems. By bridging the gap between advanced algorithms and domain-specific knowledge, I aim to build robust models that efficiently learn from data and make accurate predictions. My work focuses on enhancing reinforcement learning algorithms, improving the scalability of large models, and integrating uncertainty quantification into machine learning processes. Additionally, my current research is motivated by interdisciplinary projects in astrophysics, finance, and healthcare.
+My name is Eric Jiang (姜汉晨), and I am currently a senior undergraduate at University of California, Los Angeles, pursuing double degrees in Math of Computation and Statistics. I am an incoming Statistics PhD student (25 Fall) at UCLA, supervised by [Prof. Kai-Wei Chang](https://scholar.google.com/citations?user=fqDBtzYAAAAJ&hl=en) and  [Prof. Yingnian Wu](https://scholar.google.com/citations?user=7k_1QFIAAAAJ&hl=en). 
+
+My research develops a comprehensive framework that integrates theoretical foundations in machine learning with practical applications in complex systems. By bridging the gap between advanced algorithms and domain-specific knowledge, I aim to build robust models that efficiently learn from data and make accurate predictions. My work focuses on enhancing reinforcement learning algorithms, improving the scalability of large models, and integrating uncertainty quantification into machine learning processes. Additionally, my current research is motivated by interdisciplinary projects in astrophysics, finance, and healthcare.
 
 I am open to any research collaboration and internship 🥳! Feel free to contact me!
 
@@ -60,3 +62,5 @@ I am open to any research collaboration and internship 🥳! Feel free to contac
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=R6MW_DBY2fl2O795znHmDzOYi6qR9CXUKre5ggrWNYQ"></script>
