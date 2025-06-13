@@ -40,10 +40,9 @@ I am open to any research collaboration and internship 🥳! Feel free to contac
 
 [Learning to Rank Chain-of-Thought: An Energy-Based Approach with Outcome Supervision](https://arxiv.org/abs/2505.14999)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Eric Hanchen Jiang**, Haozheng Luo, Shengyuan Pang, Xiaomin Li, Zhenting Qi, Hengli Li, Cheng-Fu Yang, Zongyu Lin, Xinfeng Li, Hao Xu, Kai-Wei Chang, Ying Nian Wu
 
-[**Project**](https://github.com/ericjiang18/EnergyORM/tree/main) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- We used Energy Based Model to rank CoT
+[**Code**](https://github.com/ericjiang18/EnergyORM/tree/main) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
 
