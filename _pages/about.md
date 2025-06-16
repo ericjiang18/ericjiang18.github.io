@@ -47,14 +47,14 @@ I am open to any research collaboration and internship 🥳! Feel free to contac
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/ebm_cot.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/x1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Learning to Rank Chain-of-Thought: An Energy-Based Approach with Outcome Supervision](https://arxiv.org/abs/2505.14999)
+[Seek in the Dark: Reasoning via Test-Time Instance-Level Policy Gradient in Latent Space](https://arxiv.org/abs/2505.13308v1)
 
-**Eric Hanchen Jiang**, Haozheng Luo, Shengyuan Pang, Xiaomin Li, Zhenting Qi, Hengli Li, Cheng-Fu Yang, Zongyu Lin, Xinfeng Li, Hao Xu, Kai-Wei Chang, Ying Nian Wu
+Hengli Li, Chenxi Li, Tong Wu, Xuekai Zhu, Yuxuan Wang, Zhaoxin Yu, **Eric Hanchen Jiang**, Song-Chun Zhu, Zixia Jia, Ying Nian Wu, Zilong Zheng
 
-[**Code**](https://github.com/ericjiang18/EnergyORM/tree/main) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Code**](https://github.com/bigai-nlco/LatentSeek) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
 
