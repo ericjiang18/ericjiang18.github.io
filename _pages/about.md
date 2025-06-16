@@ -35,7 +35,7 @@ I am open to any research collaboration and internship 🥳! Feel free to contac
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/ebm_cot.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Learning to Rank Chain-of-Thought: An Energy-Based Approach with Outcome Supervision](https://arxiv.org/abs/2505.14999)
