@@ -16,6 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+#👋 Hi!
 
 My name is Eric Jiang (姜汉晨), and I am an incoming Statistics and Data Science PhD student (25 Fall) at UCLA, supervised by [Prof. Kai-Wei Chang](https://scholar.google.com/citations?user=fqDBtzYAAAAJ&hl=en) and  [Prof. Yingnian Wu](https://scholar.google.com/citations?user=7k_1QFIAAAAJ&hl=en). 
 
