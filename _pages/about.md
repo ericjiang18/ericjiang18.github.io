@@ -41,6 +41,18 @@ I am open to any research collaboration and internship 🥳! Feel free to contac
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/ebm_cot.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+[CARES: Comprehensive Evaluation of Safety and Adversarial Robustness in Medical LLMs](https://arxiv.org/pdf/2505.11413?)
+
+Sijia Chen, Xiaomin Li, Mengxue Zhang, **Eric Hanchen Jiang**, Qingcheng Zeng, Chen-Hsiang Yu
+
+[**Code**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/ebm_cot.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 [Learning to Rank Chain-of-Thought: An Energy-Based Approach with Outcome Supervision](https://arxiv.org/abs/2505.14999)
 
 **Eric Hanchen Jiang**, Haozheng Luo, Shengyuan Pang, Xiaomin Li, Zhenting Qi, Hengli Li, Cheng-Fu Yang, Zongyu Lin, Xinfeng Li, Hao Xu, Kai-Wei Chang, Ying Nian Wu
