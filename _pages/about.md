@@ -38,7 +38,7 @@ I am open to any research collaboration and internship 🥳! Feel free to contac
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/ebm_cot.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/care.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CARES: Comprehensive Evaluation of Safety and Adversarial Robustness in Medical LLMs](https://arxiv.org/pdf/2505.11413?)
