@@ -38,6 +38,19 @@ WeChat: jhc031803
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/diagnose.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Diagnose, Localize, Align: A Full-Stack Framework for Reliable LLM Multi-Agent Systems under Instruction Conflicts](https://arxiv.org/pdf/2509.23188)
+
+Guancheng Wan, Leixin Sun, Longxu Dou, Zitong Shi, Fang Wu, Eric Hanchen Jiang, Wenke Huang, Guibin Zhang, Hejia Geng, Xiangru Tang, Zhenfei Yin, Yizhou Sun, Wei Wang
+[**Code**](https://github.com/GuanchengWan/DLA-SAIL-Training) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/care.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
