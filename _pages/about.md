@@ -126,7 +126,7 @@ Sijia Chen, Xiaomin Li, Mengxue Zhang, **Eric Hanchen Jiang**, Qingcheng Zeng, C
 - *2022.06 - 2025.06*, University of California, Los Angeles (UCLA) (BS)
 
 
-# 💼 Work Experience
+# 💼 Internship Experience
 - *2025.06 - 2025.09*, Alibaba Inc. 
 - *2023.01 - 2025.03*, Morgan Stanley
 
