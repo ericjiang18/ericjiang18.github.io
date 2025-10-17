@@ -122,8 +122,8 @@ Sijia Chen, Xiaomin Li, Mengxue Zhang, **Eric Hanchen Jiang**, Qingcheng Zeng, C
 </div>
 
 # 📖 Educations
-- *2022.06 - 2030.06*, University of California, Los Angeles (UCLA) (PhD)
-- *2021.09 - 2022.06*, Southern University of Science and Technology (SUSTech)
+- *2025.06 - 2030.06*, University of California, Los Angeles (UCLA) (PhD)
+- *2022.06 - 2025.06*, University of California, Los Angeles (UCLA) (BS)
 
 
 # 💼 Work Experience
