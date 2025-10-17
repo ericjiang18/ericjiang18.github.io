@@ -38,6 +38,20 @@ WeChat: jhc031803
 
 # 📝 Publications 
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/beyond.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Beyond Magic Words: Sharpness-Aware Prompt Evolving for Robust Large Language Models with TARE](https://arxiv.org/pdf/2509.24130)
+
+Guancheng Wan, Lucheng Fu, Haoxin Liu, Yiqiao Jin, Hui Yi Leong, Eric Hanchen Jiang, Hejia Geng, Jinhe Bi, Yunpu Ma, Xiangru Tang, B. Aditya Prakash, Yizhou Sun, Wei Wang
+[**Code**](https://github.com/GuanchengWan/TARE) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/diagnose.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
