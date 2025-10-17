@@ -39,6 +39,27 @@ WeChat: jhc031803
 # 📝 Publications 
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/ebm_safety.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Energy-Driven Steering: Reducing False Refusals in Large Language Models](https://arxiv.org/pdf/2510.08646)
+
+Eric Hanchen Jiang†, Weixuan Ou†, Run Liu, Shengyuan Pang, Guancheng Wan, Ranjie Duan, Wei Dong, Kai-Wei Chang, XiaoFeng Wang, Ying Nian Wu, Xinfeng Li
+[**Code**](https://github.com/ericjiang18/LLM_Safety_EBM_Steering) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/agent_diffusion.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Dynamic Generation of Multi-LLM Agents Communication Topologies with Graph Diffusion Models](https://arxiv.org/pdf/2510.07799?)
+
+Eric Hanchen Jiang†, Guancheng Wan†, Sophia Yin†, Mengting Li†, Yuchen Wu, Xiao Liang, Xinfeng Li, Yizhou Sun, Wei Wang, Kai-Wei Chang, Ying Nian Wu
+[**Code**](https://github.com/ericjiang18/diffusion_agent) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/beyond.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -48,9 +69,6 @@ Guancheng Wan, Lucheng Fu, Haoxin Liu, Yiqiao Jin, Hui Yi Leong, Eric Hanchen Ji
 [**Code**](https://github.com/GuanchengWan/TARE) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
-
-
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/diagnose.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
