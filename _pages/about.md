@@ -21,22 +21,24 @@ redirect_from:
 
 My name is Eric Jiang (姜汉晨), and I am an incoming Statistics and Data Science PhD student (25 Fall) at UCLA, supervised by [Prof. Kai-Wei Chang](https://scholar.google.com/citations?user=fqDBtzYAAAAJ&hl=en) and  [Prof. Yingnian Wu](https://scholar.google.com/citations?user=7k_1QFIAAAAJ&hl=en). 
 
-I am open to any research collaboration and internship 🥳! Feel free to contact me!
+I am open to any research collaboration and internship! Feel free to contact me!
+
+WeChat: jhc031803
 
 # 🔎 Current Research Topics
 
-- Reinforcement Learning: Robust RL, offline/online RL, Maximum Entropy, Policy Sampling, In-Context Learning 
-- Large Language Models: Reinforcement Learning with Human Feedback (RLHF), Trustworthy, Safety 
-- Diffusion Models: Text-to-Image Stable Diffusion, Large Vision Langugage Model, Diffusion Sampling
+- Reinforcement Learning: Robust RL, offline/online RL, In-Context Learning 
+- Large Language Models: RLHF, Safety, Agentic AI
 
 # 🔥 News
 
+- *2025.09*: &nbsp;🎉🎉 One paper Accepted to NeurIPS 2025
 - *2025.06*: &nbsp;🎉🎉 I graduated from University of California, Los Angeles with double degrees in Math of Computation and Statistics and Data Science
 - *2025.01*: &nbsp;🎉🎉 I received the Graduate Dean's Scholar Award (GDSA), awarded to the top 2 UCLA Statistics and Data Science PhD applicants (Top 1%).
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/care.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/care.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CARES: Comprehensive Evaluation of Safety and Adversarial Robustness in Medical LLMs](https://arxiv.org/pdf/2505.11413?)
@@ -71,8 +73,13 @@ Hengli Li, Chenxi Li, Tong Wu, Xuekai Zhu, Yuxuan Wang, Zhaoxin Yu, **Eric Hanch
 </div>
 </div>
 
+
+# 💼 Work Experience
+- *2025.06 - 2025.09*, Alibaba Inc. 
+- *2023.01 - 2025.03*, Morgan Stanley
+
 # 📖 Educations
-- *2022.06 - 2025.06*, University of California, Los Angeles (UCLA)
+- *2022.06 - 2030.06*, University of California, Los Angeles (UCLA) (PhD)
 - *2021.09 - 2022.06*, Southern University of Science and Technology (SUSTech)
 
 # 🎖 Honors and Awards
