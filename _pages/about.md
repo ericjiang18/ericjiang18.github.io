@@ -44,7 +44,8 @@ WeChat💭: jhc031803
 
 [Energy-Driven Steering: Reducing False Refusals in Large Language Models](https://arxiv.org/pdf/2510.08646)
 
-Eric Hanchen Jiang†, Weixuan Ou†, Run Liu, Shengyuan Pang, Guancheng Wan, Ranjie Duan, Wei Dong, Kai-Wei Chang, XiaoFeng Wang, Ying Nian Wu, Xinfeng Li
+**Eric Hanchen Jiang**†, Weixuan Ou†, Run Liu, Shengyuan Pang, Guancheng Wan, Ranjie Duan, Wei Dong, Kai-Wei Chang, XiaoFeng Wang, Ying Nian Wu, Xinfeng Li
+
 [**Code**](https://github.com/ericjiang18/LLM_Safety_EBM_Steering) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
@@ -55,7 +56,8 @@ Eric Hanchen Jiang†, Weixuan Ou†, Run Liu, Shengyuan Pang, Guancheng Wan, Ra
 
 [Dynamic Generation of Multi-LLM Agents Communication Topologies with Graph Diffusion Models](https://arxiv.org/pdf/2510.07799?)
 
-Eric Hanchen Jiang†, Guancheng Wan†, Sophia Yin†, Mengting Li†, Yuchen Wu, Xiao Liang, Xinfeng Li, Yizhou Sun, Wei Wang, Kai-Wei Chang, Ying Nian Wu
+**Eric Hanchen Jiang**†, Guancheng Wan†, Sophia Yin†, Mengting Li†, Yuchen Wu, Xiao Liang, Xinfeng Li, Yizhou Sun, Wei Wang, Kai-Wei Chang, Ying Nian Wu
+
 [**Code**](https://github.com/ericjiang18/diffusion_agent) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
@@ -65,7 +67,8 @@ Eric Hanchen Jiang†, Guancheng Wan†, Sophia Yin†, Mengting Li†, Yuchen W
 
 [Beyond Magic Words: Sharpness-Aware Prompt Evolving for Robust Large Language Models with TARE](https://arxiv.org/pdf/2509.24130)
 
-Guancheng Wan, Lucheng Fu, Haoxin Liu, Yiqiao Jin, Hui Yi Leong, Eric Hanchen Jiang, Hejia Geng, Jinhe Bi, Yunpu Ma, Xiangru Tang, B. Aditya Prakash, Yizhou Sun, Wei Wang
+Guancheng Wan, Lucheng Fu, Haoxin Liu, Yiqiao Jin, Hui Yi Leong, **Eric Hanchen Jiang**, Hejia Geng, Jinhe Bi, Yunpu Ma, Xiangru Tang, B. Aditya Prakash, Yizhou Sun, Wei Wang
+
 [**Code**](https://github.com/GuanchengWan/TARE) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
@@ -75,7 +78,8 @@ Guancheng Wan, Lucheng Fu, Haoxin Liu, Yiqiao Jin, Hui Yi Leong, Eric Hanchen Ji
 
 [Diagnose, Localize, Align: A Full-Stack Framework for Reliable LLM Multi-Agent Systems under Instruction Conflicts](https://arxiv.org/pdf/2509.23188)
 
-Guancheng Wan, Leixin Sun, Longxu Dou, Zitong Shi, Fang Wu, Eric Hanchen Jiang, Wenke Huang, Guibin Zhang, Hejia Geng, Xiangru Tang, Zhenfei Yin, Yizhou Sun, Wei Wang
+Guancheng Wan, Leixin Sun, Longxu Dou, Zitong Shi, Fang Wu, **Eric Hanchen Jiang**, Wenke Huang, Guibin Zhang, Hejia Geng, Xiangru Tang, Zhenfei Yin, Yizhou Sun, Wei Wang
+
 [**Code**](https://github.com/GuanchengWan/DLA-SAIL-Training) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
