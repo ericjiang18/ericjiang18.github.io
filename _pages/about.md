@@ -23,7 +23,7 @@ My name is Eric Jiang (姜汉晨), and I am an incoming Statistics and Data Scie
 
 I am open to any research collaboration and internship! Feel free to contact me!
 
-WeChat: jhc031803
+WeChat💭: jhc031803
 
 # 🔎 Current Research Topics
 
