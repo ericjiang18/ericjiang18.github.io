@@ -63,20 +63,6 @@ Guancheng Wan, Leixin Sun, Longxu Dou, Zitong Shi, Fang Wu, Eric Hanchen Jiang, 
 </div>
 
 
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/care.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[CARES: Comprehensive Evaluation of Safety and Adversarial Robustness in Medical LLMs](https://arxiv.org/pdf/2505.11413?)
-
-Sijia Chen, Xiaomin Li, Mengxue Zhang, **Eric Hanchen Jiang**, Qingcheng Zeng, Chen-Hsiang Yu
-
-[**Dataset**](https://huggingface.co/datasets/HFXM/CARES-18K) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-</div>
-</div>
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/ebm_cot.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -101,13 +87,27 @@ Hengli Li, Chenxi Li, Tong Wu, Xuekai Zhu, Yuxuan Wang, Zhaoxin Yu, **Eric Hanch
 </div>
 
 
-# 💼 Work Experience
-- *2025.06 - 2025.09*, Alibaba Inc. 
-- *2023.01 - 2025.03*, Morgan Stanley
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/care.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CARES: Comprehensive Evaluation of Safety and Adversarial Robustness in Medical LLMs](https://arxiv.org/pdf/2505.11413?)
+
+Sijia Chen, Xiaomin Li, Mengxue Zhang, **Eric Hanchen Jiang**, Qingcheng Zeng, Chen-Hsiang Yu
+
+[**Dataset**](https://huggingface.co/datasets/HFXM/CARES-18K) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
 
 # 📖 Educations
 - *2022.06 - 2030.06*, University of California, Los Angeles (UCLA) (PhD)
 - *2021.09 - 2022.06*, Southern University of Science and Technology (SUSTech)
+
+
+# 💼 Work Experience
+- *2025.06 - 2025.09*, Alibaba Inc. 
+- *2023.01 - 2025.03*, Morgan Stanley
+
 
 # 🎖 Honors and Awards
 - *2025.09* Awarded Graduate Dean's Scholar Award (GDSA), Amount: $14,500. 
