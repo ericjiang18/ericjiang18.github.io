@@ -21,10 +21,6 @@ redirect_from:
 
 My name is Eric Jiang (姜汉晨), and I am an first year Statistics and Data Science PhD student at UCLA, supervised by [Prof. Kai-Wei Chang](https://scholar.google.com/citations?user=fqDBtzYAAAAJ&hl=en) and  [Prof. Yingnian Wu](https://scholar.google.com/citations?user=7k_1QFIAAAAJ&hl=en). 
 
-I am open to any research collaboration and internship! Feel free to contact me!
-
-WeChat💭: jhc031803
-
 # 🔎 Current Research Topics
 
 - Reinforcement Learning: Robust RL, offline/online RL, In-Context Learning 
