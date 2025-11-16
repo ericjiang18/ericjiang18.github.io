@@ -28,6 +28,7 @@ My name is Eric Jiang (姜汉晨), and I am an first year Statistics and Data Sc
 
 # 🔥 News
 
+- *2025.11*: &nbsp;🎉🎉 Two papers Accepted to AAAI 2026
 - *2025.09*: &nbsp;🎉🎉 One paper Accepted to NeurIPS 2025
 - *2025.06*: &nbsp;🎉🎉 I graduated from University of California, Los Angeles with double degrees in Math of Computation and Statistics and Data Science
 - *2025.01*: &nbsp;🎉🎉 I received the Graduate Dean's Scholar Award (GDSA), awarded to the top 2 UCLA Statistics and Data Science PhD applicants (Top 1%).
