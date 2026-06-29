@@ -17,101 +17,179 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+<div class="hero-intro">
+
 # 👋 Hi!
 
-My name is Eric Jiang (姜汉晨), and I am an first year Statistics and Data Science PhD student at UCLA, supervised by [Prof. Kai-Wei Chang](https://scholar.google.com/citations?user=fqDBtzYAAAAJ&hl=en) and  [Prof. Yingnian Wu](https://scholar.google.com/citations?user=7k_1QFIAAAAJ&hl=en). 
+My name is **Eric Jiang (姜汉晨)**, and I am a first-year Statistics and Data Science PhD student at UCLA, supervised by [Prof. Kai-Wei Chang](https://scholar.google.com/citations?user=fqDBtzYAAAAJ&hl=en) and [Prof. Ying Nian Wu](https://scholar.google.com/citations?user=7k_1QFIAAAAJ&hl=en).
 
-# 🔎 Current Research Topics
-
-- Reinforcement Learning: Robust RL, offline/online RL, In-Context Learning 
-- Large Language Models: RLHF, Safety, Agentic AI
-
-# 🔥 News
-
-- *2025.11*: &nbsp;🎉🎉 Two papers Accepted to AAAI 2026
-- *2025.09*: &nbsp;🎉🎉 One paper Accepted to NeurIPS 2025
-- *2025.06*: &nbsp;🎉🎉 I graduated from University of California, Los Angeles with double degrees in Math of Computation and Statistics and Data Science
-- *2025.01*: &nbsp;🎉🎉 I received the Graduate Dean's Scholar Award (GDSA), awarded to the top 2 UCLA Statistics and Data Science PhD applicants (Top 1%).
-
-# 📝 Publications 
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/ebm_safety.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Energy-Driven Steering: Reducing False Refusals in Large Language Models](https://arxiv.org/pdf/2510.08646)
-
-**Eric Hanchen Jiang**†, Weixuan Ou†, Run Liu, Shengyuan Pang, Guancheng Wan, Ranjie Duan, Wei Dong, Kai-Wei Chang, XF Wang, Ying Nian Wu, Xinfeng Li
-
-[**Code**](https://github.com/ericjiang18/LLM_Safety_EBM_Steering) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-</div>
 </div>
 
+<span class='anchor' id='research-interests'></span>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/agent_diffusion.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+# 🔎 Research Interests
 
-[Dynamic Generation of Multi-LLM Agents Communication Topologies with Graph Diffusion Models](https://arxiv.org/pdf/2510.07799?)
+<div class="content-card">
 
-**Eric Hanchen Jiang**†, Guancheng Wan†, Sophia Yin†, Mengting Li†, Yuchen Wu, Xiao Liang, Xinfeng Li, Yizhou Sun, Wei Wang, Kai-Wei Chang, Ying Nian Wu
+My research focuses on advancing **large language models** in reasoning, safety, and agentic capabilities, with the goal of building systems that are reliable, effective, and scalable for real-world applications.
 
-[**Code**](https://github.com/ericjiang18/diffusion_agent) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-</div>
-</div>
+I am currently developing **agent harnesses** for tackling challenging mathematical problems, including open problems. Looking ahead, I aim to design efficient agent infrastructure that improves how LLM-based agents use tools, memory, and long-horizon reasoning.
 
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/ebm_cot.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Learning to Rank Chain-of-Thought: An Energy-Based Approach with Outcome Supervision](https://arxiv.org/abs/2505.14999)
-
-**Eric Hanchen Jiang**, Haozheng Luo, Shengyuan Pang, Xiaomin Li, Zhenting Qi, Hengli Li, Cheng-Fu Yang, Zongyu Lin, Xinfeng Li, Hao Xu, Kai-Wei Chang, Ying Nian Wu
-
-[**Code**](https://github.com/ericjiang18/EnergyORM/tree/main) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-</div>
 </div>
 
+<span class='anchor' id='-publications'></span>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/x1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+# 📝 Publications
 
-[Seek in the Dark: Reasoning via Test-Time Instance-Level Policy Gradient in Latent Space](https://arxiv.org/abs/2505.13308v1)
+<div class="pub-section">
 
-Hengli Li, Chenxi Li, Tong Wu, Xuekai Zhu, Yuxuan Wang, Zhaoxin Yu, **Eric Hanchen Jiang**, Song-Chun Zhu, Zixia Jia, Ying Nian Wu, Zilong Zheng
+<h3 class="pub-section-title">Under Review</h3>
 
-[**Code**](https://github.com/bigai-nlco/LatentSeek) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-</div>
-</div>
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/care.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[CARES: Comprehensive Evaluation of Safety and Adversarial Robustness in Medical LLMs](https://arxiv.org/pdf/2505.11413?)
-
-Sijia Chen, Xiaomin Li, Mengxue Zhang, **Eric Hanchen Jiang**, Qingcheng Zeng, Chen-Hsiang Yu
-
-[**Dataset**](https://huggingface.co/datasets/HFXM/CARES-18K) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-</div>
+<div class="pub-item">
+  <span class="pub-status pub-status--preprint">Preprint · 2026</span>
+  <div class="pub-title">Agent Q-Mix: Selecting the Right Action for LLM Multi-Agent Systems through Reinforcement Learning</div>
+  <div class="pub-authors"><strong>Eric Hanchen Jiang</strong>, L. Li, R. Sun, Xiao Liang, Y. Li, Y. Wu, Haozheng Luo, Hengli Li, Z. Zhang, Z. Kang, et al.</div>
 </div>
 
-# 📖 Educations
-- *2025.06 - 2030.06*, University of California, Los Angeles (UCLA) (PhD)
-- *2022.06 - 2025.06*, University of California, Los Angeles (UCLA) (BS)
+<div class="pub-item">
+  <span class="pub-status pub-status--preprint">Preprint · 2026</span>
+  <div class="pub-title"><a href="https://arxiv.org/abs/2505.14999">Learning to Rank Chain-of-Thought: Using a Small Model</a></div>
+  <div class="pub-authors"><strong>Eric Hanchen Jiang</strong>, Haozheng Luo, Shengyuan Pang, Xiaomin Li, Zhenting Qi, Hengli Li, Cheng-Fu Yang, Zongyu Lin, Xinfeng Li, Hao Xu, Kai-Wei Chang, Ying Nian Wu</div>
+</div>
 
+</div>
 
-# 💼 Internship Experience
-- *2025.06 - 2025.09*, Alibaba Inc. 
-- *2023.01 - 2025.03*, Morgan Stanley
+<div class="pub-section">
 
+<h3 class="pub-section-title">Published</h3>
+
+<div class="pub-item">
+  <span class="pub-status pub-status--published">ACL Main 2026</span>
+  <div class="pub-title"><a href="https://arxiv.org/pdf/2510.08646">Mitigating Over-Refusal in Aligned Large Language Models via Inference-Time Activation Energy</a></div>
+  <div class="pub-authors"><strong>Eric Hanchen Jiang</strong>†, Weixuan Ou†, Run Liu, Shengyuan Pang, Guancheng Wan, Ranjie Duan, Wei Dong, Kai-Wei Chang, XF Wang, Ying Nian Wu, Xinfeng Li</div>
+</div>
+
+<div class="pub-item">
+  <span class="pub-status pub-status--published">ACL Main 2026</span>
+  <div class="pub-title"><a href="https://arxiv.org/pdf/2510.07799">Dynamic Generation of Multi-LLM Agents Communication Topologies with Graph Diffusion Models</a></div>
+  <div class="pub-authors"><strong>Eric Hanchen Jiang</strong>†, Guancheng Wan†, Sophia Yin†, Mengting Li†, Yuchen Wu, Xiao Liang, Xinfeng Li, Yizhou Sun, Wei Wang, Kai-Wei Chang, Ying Nian Wu</div>
+</div>
+
+<div class="pub-item">
+  <span class="pub-status pub-status--published">ACL Main 2026</span>
+  <div class="pub-title">Training LLMs for Divide-and-Conquer Reasoning Elevates Test-Time Scalability</div>
+  <div class="pub-authors">Xiao Liang, Z.Z. Li, Zongyu Lin, <strong>Eric Hanchen Jiang</strong>, Heng Zhang, Yizhou Shen, Kai-Wei Chang, Ying Nian Wu, et al.</div>
+</div>
+
+<div class="pub-item">
+  <span class="pub-status pub-status--published">AAAI 2026</span>
+  <div class="pub-title">DAWN: Distributed LLM Multi-Agent Workflow Synthesis</div>
+  <div class="pub-authors">Guancheng Wan, M. Zhou, Z. Wang, X. Shang, <strong>Eric Hanchen Jiang</strong>, G. Zhang, J. Bi, Y. Ma, et al.</div>
+</div>
+
+<div class="pub-item">
+  <span class="pub-status pub-status--published">AAAI 2026</span>
+  <div class="pub-title">Multi-head Reward Aggregation Guided by Entropy</div>
+  <div class="pub-authors">Xinfeng Li, X. Chen, J. Fan, <strong>Eric Hanchen Jiang</strong>, M. Gao</div>
+</div>
+
+<div class="pub-item">
+  <span class="pub-status pub-status--published">ICLR 2026</span>
+  <div class="pub-title">Beyond Magic Words: Sharpness-Aware Prompt Evolving for Robust Large Language Models with TARE</div>
+  <div class="pub-authors">Guancheng Wan, L. Fu, H. Liu, Y. Jin, H.Y. Leong, <strong>Eric Hanchen Jiang</strong>, H. Geng, J. Bi, Y. Ma, et al.</div>
+</div>
+
+<div class="pub-item">
+  <span class="pub-status pub-status--published">NeurIPS Datasets & Benchmarks 2025</span>
+  <div class="pub-title"><a href="https://arxiv.org/pdf/2505.11413">CARES: Comprehensive Evaluation of Safety and Adversarial Robustness in Medical LLMs</a></div>
+  <div class="pub-authors">Sijia Chen, Xiaomin Li, Mengxue Zhang, <strong>Eric Hanchen Jiang</strong>, Qingcheng Zeng, Chen-Hsiang Yu</div>
+</div>
+
+<div class="pub-item">
+  <span class="pub-status pub-status--published">AISTATS 2025</span>
+  <div class="pub-title">Statistical Guarantees for Lifelong Reinforcement Learning Using PAC-Bayesian Theory</div>
+  <div class="pub-authors">Z. Zhang, C. Chow, Y. Zhang, Yizhou Sun, Heng Zhang, <strong>Eric Hanchen Jiang</strong>, H. Liu, F. Huang, Y. Cui, O.H.M. Padilla</div>
+</div>
+
+<div class="pub-item">
+  <span class="pub-status pub-status--published">ICLR Tiny Papers 2024</span>
+  <div class="pub-title">SDSRA: A Skill-Driven Skill-Recombination Algorithm for Efficient Policy Learning</div>
+  <div class="pub-authors"><strong>Eric Hanchen Jiang</strong>, A. Lizarraga</div>
+</div>
+
+</div>
+
+<span class='anchor' id='-educations'></span>
+
+# 📖 Education
+
+<div class="experience-list">
+
+<div class="experience-item">
+  <div class="experience-logo">
+    <img src="images/logos/ucla.png" alt="UCLA logo">
+  </div>
+  <div class="experience-body">
+    <div class="experience-header">
+      <strong class="experience-org">University of California, Los Angeles (UCLA)</strong>
+      <span class="experience-date">2025.08 – 2030.06 (Expected)</span>
+    </div>
+    <div class="experience-role">Ph.D. in Statistics and Data Science</div>
+    <div class="experience-detail">Advisors: Prof. Ying Nian Wu & Prof. Kai-Wei Chang</div>
+  </div>
+</div>
+
+<div class="experience-item">
+  <div class="experience-logo">
+    <img src="images/logos/ucla.png" alt="UCLA logo">
+  </div>
+  <div class="experience-body">
+    <div class="experience-header">
+      <strong class="experience-org">University of California, Los Angeles (UCLA)</strong>
+      <span class="experience-date">2022.06 – 2025.06</span>
+    </div>
+    <div class="experience-role">B.S. in Statistics & Data Science; B.S. in Mathematics of Computation</div>
+    <div class="experience-detail">GPA: 3.85/4.00</div>
+  </div>
+</div>
+
+</div>
+
+<span class='anchor' id='-internships'></span>
+
+# 💼 Work Experience
+
+<div class="experience-list">
+
+<div class="experience-item">
+  <div class="experience-logo">
+    <img src="images/logos/alibaba-cloud.png" alt="Alibaba Cloud logo">
+  </div>
+  <div class="experience-body">
+    <div class="experience-header">
+      <strong class="experience-org">Alibaba Cloud Group</strong>
+      <span class="experience-date">2025.06 – 2025.08</span>
+    </div>
+    <div class="experience-role">Machine Learning Research Intern</div>
+    <div class="experience-detail">Mentor: Ranjie Duan</div>
+    <div class="experience-detail">Developed methods to mitigate jailbreaking attacks on LLMs; built agentic LLMs for personalized multi-turn dialogue systems.</div>
+  </div>
+</div>
+
+</div>
+
+<span class='anchor' id='-honors-and-awards'></span>
 
 # 🎖 Honors and Awards
-- *2025.09* Awarded Graduate Dean's Scholar Award (GDSA), Amount: $14,500. 
-- *2025.06* Awarded Cum Laude. 
 
-<div style="width: 200px; height: 200px; margin-top: 20px;">
+<div class="content-card">
+
+- *2025* UCLA Graduate Dean's Scholar Award (GDSA)
+- *2025* Princeton University Graduate Student Fellowship (Declined)
+- *2023 – 2024* Dean's Honors List, UCLA
+
+</div>
+
+<div class="globe-widget">
   <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=R6MW_DBY2fl2O795znHmDzOYi6qR9CXUKre5ggrWNYQ"></script>
 </div>

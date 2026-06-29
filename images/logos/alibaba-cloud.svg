@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Alibaba Cloud">
+  <rect width="120" height="120" rx="16" fill="#FF6A00"/>
+  <path d="M28 78 L42 42 H52 L60 62 L68 42 H78 L92 78 H82 L76 58 L70 78 H62 L56 58 L50 78 Z" fill="#ffffff"/>
+  <text x="60" y="98" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="10" font-weight="700">Alibaba Cloud</text>
+</svg>
