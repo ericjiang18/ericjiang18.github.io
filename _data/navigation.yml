@@ -4,7 +4,7 @@ main:
     url: "/#about-me"
 
   - title: "Resume"
-    url: "/resume/"
+    url: "/assets/pdf/eric_resume.pdf"
 
   - title: "Publications"
     url: "/#-publications"
