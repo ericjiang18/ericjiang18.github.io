@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<div class="hero-intro">
+<div class="hero-intro" markdown="1">
 
 # 👋 Hi!
 
@@ -29,7 +29,7 @@ My name is **Eric Jiang (姜汉晨)**, and I am a first-year Statistics and Data
 
 # 🔎 Research Interests
 
-<div class="content-card">
+<div class="content-card" markdown="1">
 
 My research focuses on advancing **large language models** in reasoning, safety, and agentic capabilities, with the goal of building systems that are reliable, effective, and scalable for real-world applications.
 
@@ -182,7 +182,7 @@ I am currently developing **agent harnesses** for tackling challenging mathemati
 
 # 🎖 Honors and Awards
 
-<div class="content-card">
+<div class="content-card" markdown="1">
 
 - *2025* UCLA Graduate Dean's Scholar Award (GDSA)
 - *2025* Princeton University Graduate Student Fellowship (Declined)
