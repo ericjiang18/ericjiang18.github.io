@@ -73,13 +73,11 @@ I am currently developing **agent harnesses** for tackling challenging mathemati
   <span class="pub-status pub-status--published">COLM 2026</span>
   <div class="pub-title">When Seeing Overrides Knowing: Visual Dominance and Deferral-Based Method for Personalized Safety in VLMs</div>
   <div class="pub-authors">Edward Sun, Yuchen Wu, Zixian Ma, <strong>Eric Hanchen Jiang</strong>, Yijia Xiao, Xiaoyuan Yi, Ranjay Krishna, et al.</div>
-</div>
 
 <div class="pub-item">
   <span class="pub-status pub-status--published">COLM 2026</span>
   <div class="pub-title">Decoupled Alignment for Robust Plug-and-Play Adaptation</div>
   <div class="pub-authors"><strong>Haozheng Luo, J. Yu, W. Zhang, J. Li, C. Qiu, Y. Wang, <strong>Eric Hanchen Jiang</strong>, J. Hu, Y. Chen, et al.</div>
-</div>
     
 <div class="pub-item">
   <span class="pub-status pub-status--published">ACL Main 2026</span>
