@@ -78,7 +78,7 @@ I am currently developing **agent harnesses** for tackling challenging mathemati
 <div class="pub-item">
   <span class="pub-status pub-status--published">COLM 2026</span>
   <div class="pub-title">Decoupled Alignment for Robust Plug-and-Play Adaptation</div>
-  <div class="pub-authors"><strong>Haozheng Luo, J. Yu, W. Zhang, J. Li, C. Qiu, Y. Wang, <strong>Eric Hanchen Jiang</strong>, J. Hu, Y. Chen, et al.</div>
+  <div class="pub-authors">Haozheng Luo, J. Yu, W. Zhang, J. Li, C. Qiu, Y. Wang, <strong>Eric Hanchen Jiang</strong>, J. Hu, Y. Chen, et al.</div>
 </div>
     
 <div class="pub-item">
