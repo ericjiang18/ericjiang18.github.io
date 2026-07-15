@@ -47,8 +47,8 @@ I am currently developing **agent harnesses** for tackling challenging mathemati
 
 <div class="pub-item">
   <span class="pub-status pub-status--preprint">Preprint · 2026</span>
-  <div class="pub-title">Agent Q-Mix: Selecting the Right Action for LLM Multi-Agent Systems through Reinforcement Learning</div>
-  <div class="pub-authors"><strong>Eric Hanchen Jiang</strong>, L. Li, R. Sun, Xiao Liang, Y. Li, Y. Wu, Haozheng Luo, Hengli Li, Z. Zhang, Z. Kang, et al.</div>
+  <div class="pub-title">From Solvers to Research: Large Language Model-Driven Formal Mathematics at the Research Frontier</div>
+  <div class="pub-authors"><strong>Eric Hanchen Jiang</strong>, Xiao Liang, Yikai Zhang, Yingjia Wan, Mengting Li, Haikang Deng, Alexander K. Taylor, Justin Baker, Rushil Raghavan, Junyi Zhang, Ying Nian Wu, Andrea L. Bertozzi, Kai-Wei Chang, Raghu Meka, Matthew Sottile, Nanyun Peng, Amit Sahai, Terence Tao, Wei Wang</div>
 </div>
 
 <div class="pub-item">
@@ -63,6 +63,24 @@ I am currently developing **agent harnesses** for tackling challenging mathemati
 
 <h3 class="pub-section-title">Published</h3>
 
+<div class="pub-item">
+  <span class="pub-status pub-status--published">COLM 2026</span>
+  <div class="pub-title">Agent Q-Mix: Selecting the Right Action for LLM Multi-Agent Systems through Reinforcement Learning</div>
+  <div class="pub-authors"><strong>Eric Hanchen Jiang</strong>, L. Li, R. Sun, Xiao Liang, Y. Li, Y. Wu, Haozheng Luo, Hengli Li, Z. Zhang, Z. Kang, et al.
+</div>
+
+<div class="pub-item">
+  <span class="pub-status pub-status--published">COLM 2026</span>
+  <div class="pub-title">When Seeing Overrides Knowing: Visual Dominance and Deferral-Based Method for Personalized Safety in VLMs</div>
+  <div class="pub-authors">Edward Sun, Yuchen Wu, Zixian Ma, <strong>Eric Hanchen Jiang</strong>, Yijia Xiao, Xiaoyuan Yi, Ranjay Krishna, et al.</div>
+</div>
+
+<div class="pub-item">
+  <span class="pub-status pub-status--published">COLM 2026</span>
+  <div class="pub-title">Decoupled Alignment for Robust Plug-and-Play Adaptation</div>
+  <div class="pub-authors"><strong>Haozheng Luo, J. Yu, W. Zhang, J. Li, C. Qiu, Y. Wang, <strong>Eric Hanchen Jiang</strong>, J. Hu, Y. Chen, et al.</div>
+</div>
+    
 <div class="pub-item">
   <span class="pub-status pub-status--published">ACL Main 2026</span>
   <div class="pub-title"><a href="https://arxiv.org/pdf/2510.08646">Mitigating Over-Refusal in Aligned Large Language Models via Inference-Time Activation Energy</a></div>
