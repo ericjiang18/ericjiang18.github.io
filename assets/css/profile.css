@@ -1,5 +1,6 @@
 @font-face{font-family:ProfileBrands;src:url('../fonts/fa-brands-400.woff2') format('woff2');font-weight:400;font-style:normal;font-display:block}
 @font-face{font-family:ProfileSolid;src:url('../fonts/fa-solid-900.woff2') format('woff2');font-weight:900;font-style:normal;font-display:block}
+@font-face{font-family:'Zhi Mang Xing';src:url('../fonts/zhi-mang-xing-name.woff2') format('woff2');font-weight:400;font-style:normal;font-display:swap;unicode-range:U+59DC,U+6668,U+6C49}
 
 :root {
   color-scheme: dark;
@@ -78,7 +79,7 @@ svg { display:block; }
 .page-shell { padding-top:57px; padding-bottom:72px; }
 .profile-heading { margin-bottom:27px; }
 .profile-heading h1 { font-size:2.6rem; font-weight:700; letter-spacing:-1.2px; }
-.chinese-name { display:inline-block; padding-left:9px; font-family:Georgia,'Songti SC','Noto Serif CJK SC',serif; font-size:.49em; color:var(--muted); font-weight:400; letter-spacing:2px; vertical-align:middle; }
+.chinese-name { display:inline-block; padding-left:9px; font-family:'Zhi Mang Xing','Songti SC',serif; font-size:.62em; color:var(--muted); font-weight:400; letter-spacing:2px; vertical-align:middle; }
 .profile-subtitle { margin:7px 0 0; color:var(--muted); font-size:1rem; }
 .profile-grid { display:grid; grid-template-columns:minmax(0,1fr) 248px; gap:38px; align-items:start; }
 .profile-bio > p:last-child { margin-bottom:0; }
@@ -174,7 +175,7 @@ svg { display:block; }
   .page-shell { padding-top:34px; padding-bottom:48px; }
   .profile-heading { margin-bottom:24px; }
   .profile-heading h1 { font-size:2.03rem; letter-spacing:-.8px; }
-  .chinese-name { font-size:.48em; padding-left:3px; letter-spacing:1px; }
+  .chinese-name { font-size:.6em; padding-left:3px; letter-spacing:1px; }
   .profile-subtitle { font-size:.87rem; max-width:300px; }
   .profile-grid { display:flex; flex-direction:column; gap:27px; }
   .profile-gallery { order:-1; width:min(100%,300px); align-self:center; }

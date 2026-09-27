@@ -37,3 +37,5 @@ The internship notice and email links use `ericiiang0318@ucla.edu`, as requested
 ## Credits
 
 The repository originally used [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io). Its original MIT license and supporting theme files are retained. The new homepage uses the bundled Font Awesome icon fonts; the original font assets remain in `assets/fonts/`.
+
+The Chinese name uses a locally hosted [Zhi Mang Xing](https://fonts.google.com/specimen/Zhi+Mang+Xing) subset for 姜汉晨. Its SIL Open Font License is included in `assets/fonts/zhi-mang-xing-OFL.txt`.
