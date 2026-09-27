@@ -32,7 +32,7 @@ GitHub Pages can build this repository with its existing Jekyll configuration. N
 
 The photo order is snow → UCLA → mirror selfie → outdoors. Visitors can use the four navigation dots, arrows, keyboard, or swipe. Photos do not advance automatically. The WeChat icon opens the QR card; without JavaScript it links directly to the image. Dark mode is the default, and visitors’ theme and accent preferences are saved locally in their browser.
 
-The internship notice and email links use `ericiiang0318@ucla.edu`, as requested. The existing CV PDF is unchanged.
+The internship notice and email links use `ericjiang0318@ucla.edu`. The existing CV PDF is unchanged.
 
 ## Credits
 
