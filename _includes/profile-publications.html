@@ -1,0 +1,32 @@
+<section class="publications-section" id="publications" aria-labelledby="publications-heading">
+  <div class="section-header">
+    <h2 id="publications-heading">Publications</h2>
+    <a href="{{ site.author.googlescholar | escape }}" target="_blank" rel="noopener noreferrer">Google Scholar <span aria-hidden="true">↗</span></a>
+  </div>
+  {% assign publication_years = site.data.publications | group_by: "year" %}
+  {% for year in publication_years %}
+  <section class="year-group" aria-labelledby="publications-{{ year.name }}">
+    <h3 class="year-heading" id="publications-{{ year.name }}">{{ year.name }}</h3>
+    <div class="publication-list">
+      {% for publication in year.items %}
+      <article class="publication" id="publication-{{ publication.id }}" aria-labelledby="title-{{ publication.id }}">
+        <div class="publication-venue">{{ publication.venue | escape }}</div>
+        <div class="publication-body">
+          <h4 class="publication-title" id="title-{{ publication.id }}">{{ publication.title | escape }}</h4>
+          <p class="publication-authors">{{ publication.authors }}</p>
+          <div class="publication-meta">
+            <span class="publication-status">{{ publication.status | escape }}</span>
+            {% if publication.url %}
+            <span class="publication-links"><a href="{{ publication.url | escape }}" target="_blank" rel="noopener noreferrer" aria-label="Read {{ publication.title | escape }}">Paper <span aria-hidden="true">↗</span></a></span>
+            {% endif %}
+            {% if publication.pdf_url %}
+            <span class="publication-links"><a href="{{ publication.pdf_url | escape }}" target="_blank" rel="noopener noreferrer" aria-label="Read the PDF of {{ publication.title | escape }}">PDF <span aria-hidden="true">↗</span></a></span>
+            {% endif %}
+          </div>
+        </div>
+      </article>
+      {% endfor %}
+    </div>
+  </section>
+  {% endfor %}
+</section>

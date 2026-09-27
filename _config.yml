@@ -8,6 +8,8 @@
 # Site Settings
 title                    : "Eric Hanchen Jiang"
 description              : "UCLA Ph.D. Student"
+url                      : "https://ericjiang18.github.io"
+baseurl                  : ""
 repository               : "ericjiang18/ericjiang18.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,13 +24,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Eric Hanchen Jiang"
-  avatar           : "images/1730453326541.jpg"
+  avatar           : "images/profile/01-snow.jpg"
   bio              : 
   location         : "Los Angeles, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=nAS1smkAAAAJ"
-  email            : "ericjiang0318@ucla.edu"
+  email            : "ericiiang0318@ucla.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

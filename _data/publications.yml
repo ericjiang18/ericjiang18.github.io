@@ -1,0 +1,148 @@
+# Publications, including the entries preserved from the original homepage.
+
+- id: "formal-mathematics"
+  year: 2026
+  venue: "Preprint"
+  status: "Under review"
+  title: "From Solvers to Research: Large Language Model-Driven Formal Mathematics at the Research Frontier"
+  authors: "<strong>Eric Hanchen Jiang</strong>, Xiao Liang, Yikai Zhang, Yingjia Wan, Mengting Li, Haikang Deng, Alexander K. Taylor, Justin Baker, Rushil Raghavan, Junyi Zhang, Ying Nian Wu, Andrea L. Bertozzi, Kai-Wei Chang, Raghu Meka, Matthew Sottile, Nanyun Peng, Amit Sahai, Terence Tao, Wei Wang"
+
+- id: "rank-chain-of-thought"
+  year: 2026
+  venue: "Preprint"
+  status: "Under review"
+  title: "Learning to Rank Chain-of-Thought: Using a Small Model"
+  authors: "<strong>Eric Hanchen Jiang</strong>, Haozheng Luo, Shengyuan Pang, Xiaomin Li, Zhenting Qi, Hengli Li, Cheng-Fu Yang, Zongyu Lin, Xinfeng Li, Hao Xu, Kai-Wei Chang, Ying Nian Wu"
+  url: "https://arxiv.org/abs/2505.14999"
+
+- id: "harness-memory"
+  year: 2026
+  venue: "NeurIPS Evaluations and Datasets Track"
+  status: "Accepted (poster)"
+  title: "Harness the Memory: A Holistic Evaluation of Memory Substrates in Memory Agents"
+  authors: "Wei-Chieh Huang, Weizhi Zhang, Yuchen Wu, Yankai Chen, <strong>Eric Hanchen Jiang</strong>, Wooseong Yang, Yiwei Yang, Henry Peng Zou, Hanrong Zhang, Ying Nian Wu, Haolun Wu, Kai-Wei Chang, Philip S. Yu, Xue Liu, Aylin Caliskan"
+  url: "https://openreview.net/forum?id=tyh2XeFgOJ"
+  pdf_url: "https://openreview.net/pdf?id=tyh2XeFgOJ"
+
+- id: "latent-policy-gradient"
+  year: 2026
+  venue: "NeurIPS"
+  status: "Accepted (poster)"
+  title: "Reasoning via Test-Time Instance-Level Policy Gradient in Latent Space"
+  authors: "Hengli Li, Chenxi Li, Tong Wu, Xuekai Zhu, Yuxuan Wang, Zhaoxin Yu, <strong>Eric Hanchen Jiang</strong>, Song-Chun Zhu, Zixia Jia, Ying Nian Wu, Zilong Zheng"
+  url: "https://openreview.net/forum?id=AxAnHnDri3"
+  pdf_url: "https://openreview.net/pdf?id=AxAnHnDri3"
+
+- id: "attention-sinks"
+  year: 2026
+  venue: "NeurIPS"
+  status: "Accepted (poster)"
+  title: "Attention Sinks and Outliers in Attention Residuals"
+  authors: "Haozheng Luo, Haoran Dai, Shaoyang Zhang, Xi Chen, <strong>Eric Hanchen Jiang</strong>, Yijiang Li, Jingyuan Huang, Chenghao Qiu, Chenwei Xu, Zhenyu Pan, Haotian Zhang, Binghui Wang, Yan Chen"
+  url: "https://openreview.net/forum?id=yjVSLVS0Dh"
+  pdf_url: "https://openreview.net/pdf?id=yjVSLVS0Dh"
+
+- id: "recap"
+  year: 2026
+  venue: "NeurIPS"
+  status: "Accepted (poster)"
+  title: "RECAP: Looking Once Is Not Enough for Vision-Language Reasoning"
+  authors: "Zhaolu Kang, Tailong Luo, Chenxin Li, Zhenyu Yu, Fengyu Zhou, Jiachen Qian, Lei Wei, Shuang Chen, Jiachen Li, Yingjie He, <strong>Eric Hanchen Jiang</strong>, Rongchao Zhang, Zhengtao Yao, Hoi Leong Lee, Guansu Wang, et al."
+  url: "https://openreview.net/forum?id=UKko2Zrtpd"
+  pdf_url: "https://openreview.net/pdf?id=UKko2Zrtpd"
+
+- id: "juris-policy-optimization"
+  year: 2026
+  venue: "EMNLP Main"
+  status: "Published"
+  title: "JPO: Juris Policy Optimization for Structured Legal Reasoning in Criminal Judgment Prediction"
+  authors: "Zhaolu Kang, Yantao Liu, Tailong Luo, Leqi Zheng, Lei Wei, Chenghua Zhu, Junhao Gong, Jiachen Qian, <strong>Eric Hanchen Jiang</strong>, Jiaxin Liu, Yuan Wang, Hao Zhang, Zixia Wang, Rong Fu, Zheng Lin, Richeng Xuan, Zhichao Hu"
+  url: "https://arxiv.org/abs/2608.29616"
+  pdf_url: "https://arxiv.org/pdf/2608.29616"
+
+- id: "agent-q-mix"
+  year: 2026
+  venue: "COLM"
+  status: "Published"
+  title: "Agent Q-Mix: Selecting the Right Action for LLM Multi-Agent Systems through Reinforcement Learning"
+  authors: "<strong>Eric Hanchen Jiang</strong>, L. Li, R. Sun, Xiao Liang, Y. Li, Y. Wu, Haozheng Luo, Hengli Li, Z. Zhang, Z. Kang, et al."
+
+- id: "visual-dominance"
+  year: 2026
+  venue: "COLM"
+  status: "Published"
+  title: "When Seeing Overrides Knowing: Visual Dominance and Deferral-Based Method for Personalized Safety in VLMs"
+  authors: "Edward Sun, Yuchen Wu, Zixian Ma, <strong>Eric Hanchen Jiang</strong>, Yijia Xiao, Xiaoyuan Yi, Ranjay Krishna, et al."
+
+- id: "decoupled-alignment"
+  year: 2026
+  venue: "COLM"
+  status: "Published"
+  title: "Decoupled Alignment for Robust Plug-and-Play Adaptation"
+  authors: "Haozheng Luo, J. Yu, W. Zhang, J. Li, C. Qiu, Y. Wang, <strong>Eric Hanchen Jiang</strong>, J. Hu, Y. Chen, et al."
+
+- id: "over-refusal"
+  year: 2026
+  venue: "ACL Main"
+  status: "Published"
+  title: "Mitigating Over-Refusal in Aligned Large Language Models via Inference-Time Activation Energy"
+  authors: "<strong>Eric Hanchen Jiang</strong>†, Weixuan Ou†, Run Liu, Shengyuan Pang, Guancheng Wan, Ranjie Duan, Wei Dong, Kai-Wei Chang, XF Wang, Ying Nian Wu, Xinfeng Li"
+  url: "https://arxiv.org/pdf/2510.08646"
+
+- id: "graph-diffusion-agents"
+  year: 2026
+  venue: "ACL Main"
+  status: "Published"
+  title: "Dynamic Generation of Multi-LLM Agents Communication Topologies with Graph Diffusion Models"
+  authors: "<strong>Eric Hanchen Jiang</strong>†, Guancheng Wan†, Sophia Yin†, Mengting Li†, Yuchen Wu, Xiao Liang, Xinfeng Li, Yizhou Sun, Wei Wang, Kai-Wei Chang, Ying Nian Wu"
+  url: "https://arxiv.org/pdf/2510.07799"
+
+- id: "divide-and-conquer"
+  year: 2026
+  venue: "ACL Main"
+  status: "Published"
+  title: "Training LLMs for Divide-and-Conquer Reasoning Elevates Test-Time Scalability"
+  authors: "Xiao Liang, Z.Z. Li, Zongyu Lin, <strong>Eric Hanchen Jiang</strong>, Heng Zhang, Yizhou Shen, Kai-Wei Chang, Ying Nian Wu, et al."
+
+- id: "dawn"
+  year: 2026
+  venue: "AAAI"
+  status: "Published"
+  title: "DAWN: Distributed LLM Multi-Agent Workflow Synthesis"
+  authors: "Guancheng Wan, M. Zhou, Z. Wang, X. Shang, <strong>Eric Hanchen Jiang</strong>, G. Zhang, J. Bi, Y. Ma, et al."
+
+- id: "multi-head-reward"
+  year: 2026
+  venue: "AAAI"
+  status: "Published"
+  title: "Multi-head Reward Aggregation Guided by Entropy"
+  authors: "Xinfeng Li, X. Chen, J. Fan, <strong>Eric Hanchen Jiang</strong>, M. Gao"
+
+- id: "tare"
+  year: 2026
+  venue: "ICLR"
+  status: "Published"
+  title: "Beyond Magic Words: Sharpness-Aware Prompt Evolving for Robust Large Language Models with TARE"
+  authors: "Guancheng Wan, L. Fu, H. Liu, Y. Jin, H.Y. Leong, <strong>Eric Hanchen Jiang</strong>, H. Geng, J. Bi, Y. Ma, et al."
+
+- id: "cares"
+  year: 2025
+  venue: "NeurIPS Datasets & Benchmarks"
+  status: "Published"
+  title: "CARES: Comprehensive Evaluation of Safety and Adversarial Robustness in Medical LLMs"
+  authors: "Sijia Chen, Xiaomin Li, Mengxue Zhang, <strong>Eric Hanchen Jiang</strong>, Qingcheng Zeng, Chen-Hsiang Yu"
+  url: "https://arxiv.org/pdf/2505.11413"
+
+- id: "lifelong-reinforcement-learning"
+  year: 2025
+  venue: "AISTATS"
+  status: "Published"
+  title: "Statistical Guarantees for Lifelong Reinforcement Learning Using PAC-Bayesian Theory"
+  authors: "Z. Zhang, C. Chow, Y. Zhang, Yizhou Sun, Heng Zhang, <strong>Eric Hanchen Jiang</strong>, H. Liu, F. Huang, Y. Cui, O.H.M. Padilla"
+
+- id: "sdsra"
+  year: 2024
+  venue: "ICLR Tiny Papers"
+  status: "Published"
+  title: "SDSRA: A Skill-Driven Skill-Recombination Algorithm for Efficient Policy Learning"
+  authors: "<strong>Eric Hanchen Jiang</strong>, A. Lizarraga"

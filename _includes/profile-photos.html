@@ -1,0 +1,21 @@
+<div class="profile-gallery" role="region" aria-roledescription="carousel" aria-label="Photos of Eric" tabindex="0">
+  <div class="photo-stage">
+    {% for photo in site.data.photos %}
+    <figure class="photo-slide{% if forloop.first %} is-active{% endif %}"{% unless forloop.first %} hidden{% endunless %} role="group" aria-roledescription="slide" aria-label="{{ forloop.index }} of {{ forloop.length }}">
+      <picture>
+        <source srcset="{{ '/images/profile/' | append: photo.file | append: '.webp' | relative_url }}" type="image/webp">
+        <img src="{{ '/images/profile/' | append: photo.file | append: '.jpg' | relative_url }}" alt="{{ photo.alt }}" width="800" height="800" {% if forloop.first %}fetchpriority="high"{% else %}loading="lazy"{% endif %}>
+      </picture>
+    </figure>
+    {% endfor %}
+    <button class="photo-arrow photo-previous" type="button" aria-label="Previous photo"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m14 6-6 6 6 6"/></svg></button>
+    <button class="photo-arrow photo-next" type="button" aria-label="Next photo"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m10 6 6 6-6 6"/></svg></button>
+  </div>
+  <div class="photo-dots" role="group" aria-label="Choose a photo">
+    {% for photo in site.data.photos %}
+    <button class="photo-dot{% if forloop.first %} is-active{% endif %}" type="button" aria-label="Show photo {{ forloop.index }}: {{ photo.alt }}" aria-pressed="{% if forloop.first %}true{% else %}false{% endif %}" data-photo="{{ forloop.index0 }}"></button>
+    {% endfor %}
+  </div>
+  <p class="photo-announcement sr-only" aria-live="polite" aria-atomic="true">Photo 1 of {{ site.data.photos.size }}</p>
+  <noscript><p class="photo-fallback">{% for photo in site.data.photos %}<a href="{{ '/images/profile/' | append: photo.file | append: '.jpg' | relative_url }}">Photo {{ forloop.index }}</a>{% unless forloop.last %} · {% endunless %}{% endfor %}</p></noscript>
+</div>
