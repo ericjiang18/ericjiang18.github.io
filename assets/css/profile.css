@@ -110,17 +110,11 @@ svg { display:block; }
 .section-header > a { font-size:.83rem; white-space:nowrap; }
 .year-group { position:relative; margin-top:27px; }
 .year-heading { font-weight:400; color:var(--muted); font-size:1.35rem; margin-bottom:22px; }
-.publication { display:grid; grid-template-columns:112px minmax(0,1fr); gap:24px; margin-bottom:30px; }
-.publication-venue { align-self:start; margin-top:4px; border:1px solid var(--accent); color:var(--accent); text-align:center; padding:4px 7px; border-radius:3px; font-size:.68rem; font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif; font-weight:500; letter-spacing:.04em; line-height:1.45; text-transform:uppercase; }
+.publication { margin-bottom:30px; }
 .publication-title { font-size:1.03rem; color:var(--accent); font-weight:700; line-height:1.45; margin-bottom:5px; }
 .publication-title a { color:inherit; }
 .publication-authors { font-size:.91rem; line-height:1.6; margin:0 0 6px; color:var(--muted); }
 .publication-authors strong { color:var(--text); font-weight:600; }
-.publication-meta { display:flex; align-items:center; gap:15px; font-size:.76rem; }
-.publication-status { color:var(--muted); font-style:italic; }
-.publication-links a { display:inline-block; color:var(--text); border:1px solid var(--line); padding:1px 9px; border-radius:3px; font-size:.69rem; font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif; text-transform:uppercase; letter-spacing:.03em; }
-.publication-links { display:inline-flex; flex-wrap:wrap; gap:6px; }
-.publication-links a:hover { border-color:var(--accent); color:var(--accent); text-decoration:none; }
 .experience-entry { display:flex; align-items:flex-start; gap:24px; margin:0 0 28px; }
 .organization-logo { display:grid; place-items:center; flex:0 0 64px; width:64px; height:64px; padding:6px; background:#fff; border:1px solid #e3e3e3; border-radius:8px; overflow:hidden; }
 .organization-logo img { object-fit:contain; width:100%; height:100%; }
@@ -191,8 +185,7 @@ svg { display:block; }
   .section-header h2 { font-size:1.66rem; }
   .section-header > a { font-size:.75rem; }
   .year-heading { font-size:1.3rem; margin-bottom:21px; }
-  .publication { display:block; margin-bottom:29px; }
-  .publication-venue { display:table; max-width:180px; margin:0 0 9px; padding:3px 9px; font-size:.62rem; }
+  .publication { margin-bottom:29px; }
   .publication-title { font-size:1rem; }
   .publication-authors { font-size:.85rem; }
   .experience-entry { gap:15px; margin-bottom:25px; }
