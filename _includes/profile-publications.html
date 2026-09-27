@@ -10,6 +10,7 @@
     <div class="publication-list">
       {% for publication in year.items %}
       <article class="publication" id="publication-{{ publication.id }}" aria-labelledby="title-{{ publication.id }}">
+        <div class="publication-venue">{{ publication.venue | escape }}</div>
         <div class="publication-body">
           <h4 class="publication-title" id="title-{{ publication.id }}">{{ publication.title | escape }}</h4>
           <p class="publication-authors">{{ publication.authors }}</p>
