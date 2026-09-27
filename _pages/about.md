@@ -51,20 +51,6 @@ redirect_from:
   </div>
 </section>
 
-<section class="work-section" id="experience" aria-labelledby="experience-heading">
-  <span class="legacy-anchor" id="-internships" aria-hidden="true"></span>
-  <div class="section-header"><h2 id="experience-heading">Work Experience</h2></div>
-  <article class="experience-entry">
-    <div class="organization-logo"><img src="{{ '/images/logos/alibaba-cloud.png' | relative_url }}" alt="Alibaba Cloud" width="72" height="72" loading="lazy"></div>
-    <div class="experience-body">
-      <div class="experience-heading"><h3>Alibaba Cloud Group</h3><p class="experience-date">Jun – Aug 2025</p></div>
-      <p class="experience-role">Machine Learning Research Intern</p>
-      <p class="experience-detail">Mentor: Ranjie Duan</p>
-      <p class="experience-detail">Developed methods to mitigate jailbreaking attacks on LLMs; built agentic LLMs for personalized multi-turn dialogue systems.</p>
-    </div>
-  </article>
-</section>
-
 <section class="honors-section" id="honors" aria-labelledby="honors-heading">
   <span class="legacy-anchor" id="-honors-and-awards" aria-hidden="true"></span>
   <div class="section-header"><h2 id="honors-heading">Honors &amp; Awards</h2></div>
