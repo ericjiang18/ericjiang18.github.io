@@ -31,6 +31,7 @@ GitHub Pages can build this repository with its existing Jekyll configuration. N
 - `images/profile/`: optimized profile images, JPEG fallbacks, and the original WeChat QR image.
 - `assets/pdf/eric_resume.pdf`: existing downloadable CV.
 - `assets/pdf/STATS20_Discussion2_F26.pdf`: slides for STATS 20 Discussion 10/2.
+- `assets/data/ShoeSizeM.csv`: downloadable STATS 20 assignment data.
 
 The photo order is snow → UCLA → mirror selfie → outdoors. Visitors can use the four navigation dots, arrows, keyboard, or swipe. Photos do not advance automatically. The WeChat icon opens the QR card; without JavaScript it links directly to the image. Dark mode is the default, and visitors’ theme and accent preferences are saved locally in their browser.
 
