@@ -22,6 +22,7 @@ GitHub Pages can build this repository with its existing Jekyll configuration. N
 ## Edit the site
 
 - `_pages/about.md`: biography, internship notice, education, experience, and awards.
+- `_pages/teaching.md`: Teaching page and its vertical list of discussion materials.
 - `_data/publications.yml`: all publications, grouped by year; preserve author order and verified publication links.
 - `_data/photos.yml`: profile photos in display order and alt text.
 - `_config.yml`: name, contact email, and social profiles.
@@ -29,6 +30,7 @@ GitHub Pages can build this repository with its existing Jekyll configuration. N
 - `assets/css/profile.css` and `assets/js/profile.js`: appearance and interactions.
 - `images/profile/`: optimized profile images, JPEG fallbacks, and the original WeChat QR image.
 - `assets/pdf/eric_resume.pdf`: existing downloadable CV.
+- `assets/pdf/STATS20_Discussion2_F26.pdf`: slides for STATS 20 Discussion 10/2.
 
 The photo order is snow → UCLA → mirror selfie → outdoors. Visitors can use the four navigation dots, arrows, keyboard, or swipe. Photos do not advance automatically. The WeChat icon opens the QR card; without JavaScript it links directly to the image. Dark mode is the default, and visitors’ theme and accent preferences are saved locally in their browser.
 

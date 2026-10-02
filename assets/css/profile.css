@@ -130,6 +130,17 @@ svg { display:block; }
 .honors-list { padding:0; list-style:none; margin:0; }
 .honors-list li { display:grid; grid-template-columns:112px 1fr; gap:24px; margin-bottom:12px; font-size:.94rem; }
 .honor-year { color:var(--accent); font-size:.88rem; }
+.teaching-page { min-height:55vh; }
+.teaching-course { margin-top:42px; }
+.teaching-term { color:var(--muted); font-size:.88rem; white-space:nowrap; }
+.teaching-materials { list-style:none; margin:0; padding:0; }
+.teaching-material { display:flex; align-items:center; justify-content:space-between; gap:24px; padding:22px 0; border-bottom:1px solid var(--line); }
+.teaching-material:first-child { padding-top:0; }
+.teaching-material-details { min-width:0; }
+.teaching-material h3 { font-size:1.13rem; line-height:1.5; }
+.teaching-material-meta { margin:6px 0 0; color:var(--muted); font-size:.88rem; }
+.teaching-material-actions { display:flex; align-items:center; gap:20px; flex-shrink:0; font-size:.88rem; }
+.teaching-open { display:inline-flex; align-items:center; gap:12px; padding:9px 14px; border:1px solid var(--accent); border-radius:6px; background:var(--accent-soft); }
 .site-footer { border-top:1px solid var(--line); color:var(--muted); font-size:.74rem; }
 .footer-inner { display:flex; gap:16px; justify-content:space-between; padding-block:24px; padding-right:32px; }
 .site-footer a { color:inherit; }
@@ -198,6 +209,8 @@ svg { display:block; }
   .experience-detail { font-size:.83rem; }
   .honors-list li { grid-template-columns:83px minmax(0,1fr); gap:12px; font-size:.88rem; }
   .honor-year { font-size:.8rem; }
+  .teaching-course { margin-top:32px; }
+  .teaching-material { flex-direction:column; align-items:flex-start; gap:16px; }
   .footer-inner { flex-direction:column; gap:6px; font-size:.68rem; padding-right:35px; }
   .accent-control { bottom:16px; right:16px; }
 }
