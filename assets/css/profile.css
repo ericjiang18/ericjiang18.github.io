@@ -133,11 +133,13 @@ svg { display:block; }
 .teaching-page { min-height:55vh; }
 .teaching-course { margin-top:42px; }
 .teaching-term { color:var(--muted); font-size:.88rem; white-space:nowrap; }
+.teaching-discussion + .teaching-discussion { margin-top:36px; }
+.teaching-discussion-heading { margin-bottom:20px; font-size:1.3rem; }
 .teaching-materials { list-style:none; margin:0; padding:0; }
 .teaching-material { display:flex; align-items:center; justify-content:space-between; gap:24px; padding:22px 0; border-bottom:1px solid var(--line); }
 .teaching-material:first-child { padding-top:0; }
 .teaching-material-details { min-width:0; }
-.teaching-material h3 { font-size:1.13rem; line-height:1.5; }
+.teaching-material h4 { font-size:1.13rem; line-height:1.5; }
 .teaching-material-meta { margin:6px 0 0; color:var(--muted); font-size:.88rem; }
 .teaching-material-actions { display:flex; align-items:center; gap:20px; flex-shrink:0; font-size:.88rem; }
 .teaching-open { display:inline-flex; align-items:center; gap:12px; padding:9px 14px; border:1px solid var(--accent); border-radius:6px; background:var(--accent-soft); }

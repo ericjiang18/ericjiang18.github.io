@@ -16,26 +16,63 @@ description: "STATS 20 discussion materials, slides, and assignment data from Er
       <h2 id="stats20-heading">STATS 20</h2>
       <span class="teaching-term">Fall 2026</span>
     </div>
-    <ul class="teaching-materials">
-      <li class="teaching-material">
-        <div class="teaching-material-details">
-          <h3><a href="{{ '/assets/pdf/STATS20_Discussion2_F26.pdf' | relative_url }}">STATS 20 Discussion 10/2</a></h3>
-          <p class="teaching-material-meta"><time datetime="2026-10-02">October 2, 2026</time> · PDF</p>
-        </div>
-        <div class="teaching-material-actions">
-          <a class="teaching-open" href="{{ '/assets/pdf/STATS20_Discussion2_F26.pdf' | relative_url }}">Open PDF <span aria-hidden="true">↗</span></a>
-          <a href="{{ '/assets/pdf/STATS20_Discussion2_F26.pdf' | relative_url }}" download="STATS20_Discussion2_F26.pdf">Download <span aria-hidden="true">↓</span></a>
-        </div>
-      </li>
-      <li class="teaching-material">
-        <div class="teaching-material-details">
-          <h3><a href="{{ '/assets/data/ShoeSizeM.csv' | relative_url }}" download="ShoeSizeM.csv">ShoeSizeM.csv</a></h3>
-          <p class="teaching-material-meta">Assignment data · CSV</p>
-        </div>
-        <div class="teaching-material-actions">
-          <a class="teaching-open" href="{{ '/assets/data/ShoeSizeM.csv' | relative_url }}" download="ShoeSizeM.csv">Download CSV <span aria-hidden="true">↓</span></a>
-        </div>
-      </li>
-    </ul>
+    <section class="teaching-discussion" aria-labelledby="discussion-10-16-heading">
+      <h3 class="teaching-discussion-heading" id="discussion-10-16-heading">Discussion 10/16</h3>
+      <ul class="teaching-materials">
+        <li class="teaching-material">
+          <div class="teaching-material-details">
+            <h4><a href="{{ '/assets/pdf/STATS20_Discussion4_F26.pdf' | relative_url }}">STATS 20 Discussion 10/16</a></h4>
+            <p class="teaching-material-meta"><time datetime="2026-10-16">October 16, 2026</time> · PDF</p>
+          </div>
+          <div class="teaching-material-actions">
+            <a class="teaching-open" href="{{ '/assets/pdf/STATS20_Discussion4_F26.pdf' | relative_url }}">Open PDF <span aria-hidden="true">↗</span></a>
+            <a href="{{ '/assets/pdf/STATS20_Discussion4_F26.pdf' | relative_url }}" download="STATS20_Discussion4_F26.pdf">Download <span aria-hidden="true">↓</span></a>
+          </div>
+        </li>
+        <li class="teaching-material">
+          <div class="teaching-material-details">
+            <h4><a href="{{ '/assets/data/automobile_26.RDS' | relative_url }}" download="automobile_26.RDS">automobile_26.RDS</a></h4>
+            <p class="teaching-material-meta">Assignment data · RDS</p>
+          </div>
+          <div class="teaching-material-actions">
+            <a class="teaching-open" href="{{ '/assets/data/automobile_26.RDS' | relative_url }}" download="automobile_26.RDS">Download RDS <span aria-hidden="true">↓</span></a>
+          </div>
+        </li>
+        <li class="teaching-material">
+          <div class="teaching-material-details">
+            <h4><a href="{{ '/assets/data/automobile_26.csv' | relative_url }}" download="automobile_26.csv">automobile_26.csv</a></h4>
+            <p class="teaching-material-meta">Assignment data · CSV</p>
+          </div>
+          <div class="teaching-material-actions">
+            <a class="teaching-open" href="{{ '/assets/data/automobile_26.csv' | relative_url }}" download="automobile_26.csv">Download CSV <span aria-hidden="true">↓</span></a>
+          </div>
+        </li>
+      </ul>
+    </section>
+
+    <section class="teaching-discussion" aria-labelledby="discussion-10-2-heading">
+      <h3 class="teaching-discussion-heading" id="discussion-10-2-heading">Discussion 10/2</h3>
+      <ul class="teaching-materials">
+        <li class="teaching-material">
+          <div class="teaching-material-details">
+            <h4><a href="{{ '/assets/pdf/STATS20_Discussion2_F26.pdf' | relative_url }}">STATS 20 Discussion 10/2</a></h4>
+            <p class="teaching-material-meta"><time datetime="2026-10-02">October 2, 2026</time> · PDF</p>
+          </div>
+          <div class="teaching-material-actions">
+            <a class="teaching-open" href="{{ '/assets/pdf/STATS20_Discussion2_F26.pdf' | relative_url }}">Open PDF <span aria-hidden="true">↗</span></a>
+            <a href="{{ '/assets/pdf/STATS20_Discussion2_F26.pdf' | relative_url }}" download="STATS20_Discussion2_F26.pdf">Download <span aria-hidden="true">↓</span></a>
+          </div>
+        </li>
+        <li class="teaching-material">
+          <div class="teaching-material-details">
+            <h4><a href="{{ '/assets/data/ShoeSizeM.csv' | relative_url }}" download="ShoeSizeM.csv">ShoeSizeM.csv</a></h4>
+            <p class="teaching-material-meta">Assignment data · CSV</p>
+          </div>
+          <div class="teaching-material-actions">
+            <a class="teaching-open" href="{{ '/assets/data/ShoeSizeM.csv' | relative_url }}" download="ShoeSizeM.csv">Download CSV <span aria-hidden="true">↓</span></a>
+          </div>
+        </li>
+      </ul>
+    </section>
   </section>
 </section>

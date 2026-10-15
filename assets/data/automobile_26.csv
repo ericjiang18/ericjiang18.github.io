@@ -1,0 +1,75 @@
+﻿name,price,mpg,weight,length,foreign
+AMC Concord,4099,22,2930,186,No
+AMC Pacer,4749,17,3350,173,No
+AMC Spirit,3799,22,,168,No
+Audi 5000,9690,17,2830,189,Yes
+Audi Fox,6295,23,2070,174,Yes
+BMW 320i,9735,25,2650,177,Yes
+Buick Century,4816,20,3250,196,No
+Buick Electra,7827,15,4080,222,No
+Buick LeSabre,5788,18,3670,218,No
+Buick Opel,4453,26,,170,No
+Buick Regal,5189,20,3280,200,No
+Buick Riviera,10372,,3880,,No
+Buick Skylark,4082,19,3400,200,No
+Cad. Deville,11385,14,4330,221,No
+Cad. Eldorado,14500,14,3900,204,No
+Cad. Seville,15906,21,4290,204,No
+Chev. Chevette,3299,29,2110,163,
+Chev. Impala,5705,16,3690,212,No
+Chev. Malibu,4504,22,,193,No
+Chev. Monte Carlo,5104,22,3220,200,No
+Chev. Monza,3667,24,2750,,No
+Chev. Nova,3955,19,3430,197,No
+Datsun 200,6229,,2370,170,Yes
+Datsun 210,4589,35,2020,165,Yes
+Datsun 510,5079,24,2280,170,Yes
+Datsun 810,8129,21,2750,184,Yes
+Dodge Colt,3984,30,2120,163,
+Dodge Diplomat,4010,18,3600,206,No
+Dodge Magnum,5886,16,3600,206,No
+Dodge St. Regis,6342,17,3740,220,No
+Fiat Strada,4296,21,,161,Yes
+Ford Fiesta,4389,28,1800,147,No
+Ford Mustang,4187,21,2650,179,No
+Honda Accord,5799,25,2240,172,Yes
+Honda Civic,4499,28,1760,149,Yes
+Linc. Continental,11497,12,4840,233,No
+Linc. Mark V,13594,12,4720,230,No
+Linc. Versailles,13466,14,3830,201,No
+Mazda GLC,3995,30,1980,154,Yes
+Merc. Bobcat,3829,22,2580,169,No
+Merc. Cougar,5379,14,4060,221,No
+Merc. Marquis,6165,15,3720,212,No
+Merc. Monarch,4516,18,3370,198,No
+Merc. XR-7,6303,14,4130,217,No
+Merc. Zephyr,3291,20,,195,No
+Olds 98,8814,21,4060,220,No
+Olds Cutl Supr,5172,19,3310,198,No
+Olds Cutlass,4733,19,3300,,No
+Olds Delta 88,4890,18,3690,218,No
+Olds Omega,4181,,3370,200,No
+Olds Starfire,4195,24,2730,180,No
+Olds Toronado,10371,16,4030,206,No
+Peugeot 604,12990,14,3420,192,Yes
+Plym. Arrow,4647,28,3260,170,No
+Plym. Champ,4425,34,1800,157,No
+Plym. Horizon,4482,25,2200,165,No
+Plym. Sapporo,6486,26,2520,182,No
+Plym. Volare,4060,18,3330,201,No
+Pont. Catalina,5798,18,3700,214,No
+Pont. Firebird,4934,18,3470,198,
+Pont. Grand Prix,5222,19,3210,201,No
+Pont. Le Mans,4723,19,3200,199,No
+Pont. Phoenix,4424,19,3420,203,No
+Pont. Sunbird,4172,24,2690,179,No
+Renault Le Car,3895,26,1830,142,Yes
+Subaru,3798,35,2050,164,Yes
+Toyota Celica,5899,18,2410,174,Yes
+Toyota Corolla,3748,31,2200,165,Yes
+Toyota Corona,5719,18,2670,175,Yes
+Volvo 260,11995,17,3170,,Yes
+VW Dasher,7140,23,2160,172,Yes
+VW Diesel,5397,41,2040,155,Yes
+VW Rabbit,4697,25,,155,Yes
+VW Scirocco,6850,25,1990,156,Yes
