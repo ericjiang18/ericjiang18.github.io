@@ -31,16 +31,6 @@ description: "STATS 20 discussion materials, slides, and assignment data from Er
         </li>
         <li class="teaching-material">
           <div class="teaching-material-details">
-            <h4><a href="{{ '/assets/teaching/STATS20_Discussion_10_16_Worked_Example.html' | relative_url }}">Completed R Markdown example</a></h4>
-            <p class="teaching-material-meta">Code, results, and explanations · HTML</p>
-          </div>
-          <div class="teaching-material-actions">
-            <a class="teaching-open" href="{{ '/assets/teaching/STATS20_Discussion_10_16_Worked_Example.html' | relative_url }}">View report <span aria-hidden="true">↗</span></a>
-            <a href="{{ '/assets/teaching/STATS20_Discussion_10_16_Worked_Example.html' | relative_url }}" download="STATS20_Discussion_10_16_Worked_Example.html">Download <span aria-hidden="true">↓</span></a>
-          </div>
-        </li>
-        <li class="teaching-material">
-          <div class="teaching-material-details">
             <h4><a href="{{ '/assets/data/automobile_26.RDS' | relative_url }}" download="automobile_26.RDS">automobile_26.RDS</a></h4>
             <p class="teaching-material-meta">Assignment data · RDS</p>
           </div>

@@ -34,7 +34,6 @@ GitHub Pages can build this repository with its existing Jekyll configuration. N
 - `assets/data/ShoeSizeM.csv`: downloadable STATS 20 assignment data.
 - `assets/pdf/STATS20_Discussion4_F26.pdf`: slides for STATS 20 Discussion 10/16.
 - `assets/data/automobile_26.RDS` and `assets/data/automobile_26.csv`: assignment data for Discussion 10/16.
-- `assets/teaching/STATS20_Discussion_10_16_Worked_Example.html`: completed R Markdown report with code, results, and explanations for Discussion 10/16.
 
 The photo order is snow → UCLA → mirror selfie → outdoors. Visitors can use the four navigation dots, arrows, keyboard, or swipe. Photos do not advance automatically. The WeChat icon opens the QR card; without JavaScript it links directly to the image. Dark mode is the default, and visitors’ theme and accent preferences are saved locally in their browser.
 
