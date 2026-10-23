@@ -16,6 +16,51 @@ description: "STATS 20 discussion materials, slides, and assignment data from Er
       <h2 id="stats20-heading">STATS 20</h2>
       <span class="teaching-term">Fall 2026</span>
     </div>
+    <section class="teaching-discussion" aria-labelledby="discussion-10-23-heading">
+      <h3 class="teaching-discussion-heading" id="discussion-10-23-heading">Discussion 10/23</h3>
+      <ul class="teaching-materials">
+        <li class="teaching-material">
+          <div class="teaching-material-details">
+            <h4><a href="{{ '/assets/pdf/STATS20_Discussion5_F26.pdf' | relative_url }}">STATS 20 Discussion 10/23</a></h4>
+            <p class="teaching-material-meta"><time datetime="2026-10-23">October 23, 2026</time> · PDF</p>
+          </div>
+          <div class="teaching-material-actions">
+            <a class="teaching-open" href="{{ '/assets/pdf/STATS20_Discussion5_F26.pdf' | relative_url }}">Open PDF <span aria-hidden="true">↗</span></a>
+            <a href="{{ '/assets/pdf/STATS20_Discussion5_F26.pdf' | relative_url }}" download="STATS20_Discussion5_F26.pdf">Download <span aria-hidden="true">↓</span></a>
+          </div>
+        </li>
+        <li class="teaching-material">
+          <div class="teaching-material-details">
+            <h4><a href="{{ '/assets/data/automobile_26.xlsx' | relative_url }}" download="automobile_26.xlsx">automobile_26.xlsx</a></h4>
+            <p class="teaching-material-meta">Assignment data · XLSX</p>
+          </div>
+          <div class="teaching-material-actions">
+            <a class="teaching-open" href="{{ '/assets/data/automobile_26.xlsx' | relative_url }}" download="automobile_26.xlsx">Download Excel <span aria-hidden="true">↓</span></a>
+          </div>
+        </li>
+        <li class="teaching-material">
+          <div class="teaching-material-details">
+            <h4><a href="{{ '/assets/pdf/Practice-Midterm-Version-A.pdf' | relative_url }}">Practice Midterm (Version A)</a></h4>
+            <p class="teaching-material-meta">Practice exam · PDF</p>
+          </div>
+          <div class="teaching-material-actions">
+            <a class="teaching-open" href="{{ '/assets/pdf/Practice-Midterm-Version-A.pdf' | relative_url }}">Open PDF <span aria-hidden="true">↗</span></a>
+            <a href="{{ '/assets/pdf/Practice-Midterm-Version-A.pdf' | relative_url }}" download="Practice-Midterm-Version-A.pdf">Download <span aria-hidden="true">↓</span></a>
+          </div>
+        </li>
+        <li class="teaching-material">
+          <div class="teaching-material-details">
+            <h4><a href="{{ '/assets/pdf/Practice-Midterm-Version-A_Key.pdf' | relative_url }}">Practice Midterm Answer Key (Version A)</a></h4>
+            <p class="teaching-material-meta">Answer key · PDF</p>
+          </div>
+          <div class="teaching-material-actions">
+            <a class="teaching-open" href="{{ '/assets/pdf/Practice-Midterm-Version-A_Key.pdf' | relative_url }}">Open PDF <span aria-hidden="true">↗</span></a>
+            <a href="{{ '/assets/pdf/Practice-Midterm-Version-A_Key.pdf' | relative_url }}" download="Practice-Midterm-Version-A_Key.pdf">Download <span aria-hidden="true">↓</span></a>
+          </div>
+        </li>
+      </ul>
+    </section>
+
     <section class="teaching-discussion" aria-labelledby="discussion-10-16-heading">
       <h3 class="teaching-discussion-heading" id="discussion-10-16-heading">Discussion 10/16</h3>
       <ul class="teaching-materials">
