@@ -16,6 +16,22 @@ description: "STATS 20 discussion materials, slides, and assignment data from Er
       <h2 id="stats20-heading">STATS 20</h2>
       <span class="teaching-term">Fall 2026</span>
     </div>
+    <section class="teaching-discussion" aria-labelledby="midterm-10-27-heading">
+      <h3 class="teaching-discussion-heading" id="midterm-10-27-heading">Midterm Study 10/27</h3>
+      <ul class="teaching-materials">
+        <li class="teaching-material">
+          <div class="teaching-material-details">
+            <h4><a href="{{ '/assets/teaching/STATS20_Midterm_Syntax_Sheet.html' | relative_url }}">10/27 Midterm Study Syntax Sheet</a></h4>
+            <p class="teaching-material-meta"><time datetime="2026-10-27">October 27, 2026</time> · HTML</p>
+          </div>
+          <div class="teaching-material-actions">
+            <a class="teaching-open" href="{{ '/assets/teaching/STATS20_Midterm_Syntax_Sheet.html' | relative_url }}">Open Sheet <span aria-hidden="true">↗</span></a>
+            <a href="{{ '/assets/teaching/STATS20_Midterm_Syntax_Sheet.html' | relative_url }}" download="STATS20_Midterm_Syntax_Sheet.html">Download <span aria-hidden="true">↓</span></a>
+          </div>
+        </li>
+      </ul>
+    </section>
+
     <section class="teaching-discussion" aria-labelledby="discussion-10-23-heading">
       <h3 class="teaching-discussion-heading" id="discussion-10-23-heading">Discussion 10/23</h3>
       <ul class="teaching-materials">
