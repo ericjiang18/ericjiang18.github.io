@@ -1,5 +1,12 @@
 # Publications, including the entries preserved from the original homepage.
 
+- id: "memflow"
+  year: 2027
+  venue: "PPoPP"
+  status: "Accepted"
+  title: "MemFlow: Memory is the Bottleneck—Rethinking KV Cache Retention for Scalable LLM Inference"
+  authors: "Dong Liu, <strong>Eric Jiang</strong>, Yanxuan Yu, Chang Liu, Pan Hui, Ben Lengerich, Ying Nian Wu"
+
 - id: "formal-mathematics"
   year: 2026
   venue: "Preprint"
