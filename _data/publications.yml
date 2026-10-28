@@ -7,21 +7,6 @@
   title: "MemFlow: Memory is the Bottleneck—Rethinking KV Cache Retention for Scalable LLM Inference"
   authors: "Dong Liu, <strong>Eric Jiang</strong>, Yanxuan Yu, Chang Liu, Pan Hui, Ben Lengerich, Ying Nian Wu"
 
-- id: "formal-mathematics"
-  year: 2026
-  venue: "Preprint"
-  status: "Under review"
-  title: "From Solvers to Research: Large Language Model-Driven Formal Mathematics at the Research Frontier"
-  authors: "<strong>Eric Hanchen Jiang</strong>, Xiao Liang, Yikai Zhang, Yingjia Wan, Mengting Li, Haikang Deng, Alexander K. Taylor, Justin Baker, Rushil Raghavan, Junyi Zhang, Ying Nian Wu, Andrea L. Bertozzi, Kai-Wei Chang, Raghu Meka, Matthew Sottile, Nanyun Peng, Amit Sahai, Terence Tao, Wei Wang"
-
-- id: "rank-chain-of-thought"
-  year: 2026
-  venue: "Preprint"
-  status: "Under review"
-  title: "Learning to Rank Chain-of-Thought: Using a Small Model"
-  authors: "<strong>Eric Hanchen Jiang</strong>, Haozheng Luo, Shengyuan Pang, Xiaomin Li, Zhenting Qi, Hengli Li, Cheng-Fu Yang, Zongyu Lin, Xinfeng Li, Hao Xu, Kai-Wei Chang, Ying Nian Wu"
-  url: "https://arxiv.org/abs/2505.14999"
-
 - id: "harness-memory"
   year: 2026
   venue: "NeurIPS Evaluations and Datasets Track"
