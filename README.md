@@ -38,6 +38,8 @@ GitHub Pages can build this repository with its existing Jekyll configuration. N
 - `assets/data/automobile_26.xlsx`: Excel assignment data for Discussion 10/23.
 - `assets/pdf/Practice-Midterm-Version-A.pdf` and `assets/pdf/Practice-Midterm-Version-A_Key.pdf`: practice midterm and answer key for Discussion 10/23.
 - `assets/teaching/STATS20_Midterm_Syntax_Sheet.html`: midterm study syntax sheet for 10/27, available to open or download.
+- `assets/pdf/STATS20_Discussion7_Scavenger_Hunt.pdf` and `assets/teaching/STATS20_Discussion7_Scavenger_Hunt.docx`: scavenger hunt worksheet for 11/6 Discussion in PDF and Word formats.
+- `assets/data/tvdb.csv`: scavenger hunt dataset for 11/6 Discussion.
 
 The photo order is snow → UCLA → mirror selfie → outdoors. Visitors can use the four navigation dots, arrows, keyboard, or swipe. Photos do not advance automatically. The WeChat icon opens the QR card; without JavaScript it links directly to the image. Dark mode is the default, and visitors’ theme and accent preferences are saved locally in their browser.
 
